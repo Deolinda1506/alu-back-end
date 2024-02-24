@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-Python script, using this REST API,
+"""
+A Python script, using this REST API,
 https://jsonplaceholder.typicode.com/path/?query#fragments
 for a given employee ID, returns information about his/her
 TODO list progress.
